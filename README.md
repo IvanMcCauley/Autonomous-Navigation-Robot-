@@ -19,7 +19,7 @@ A fully autonomous mobile robot designed to follow a white line and communicate 
 - **Communication**: CC3100 WiFi Boosterpack  
 - **Programming**: Energia (Arduino-based C)  
 - **Sensors**: IR Line Follower Array, Sharp GP2YOA41SK0F Distance Sensor  
-- **Innovation Hardware**: 3D Printed flag system, sweeping brush, buzzer  
+- **Innovation Hardware**: 3D printed waving flag system, sweeping brush, buzzer  
 - **Design Tools**: SolidWorks (3D printed features), Serial Monitor (sensor calibration)  
 
 ## 📸 Media
