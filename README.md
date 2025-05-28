@@ -34,8 +34,9 @@ A fully autonomous mobile robot designed to follow a white line and communicate 
 ### 🛠️ Flag Waving Mechanism (CAD)
 ![Flag CAD](Waving_flag.jpg)
 
-### 🎥 Demo Video  
-📽️ [Watch Demo (Download)](Autonomous_Navigating_Robot_Video.mov)
+## 🎥 Demo Video
+Watch it in action:  
+➡️ [Autonomous Navigation Robot Demonstration (YouTube)](https://youtu.be/za3EpjfHABY?feature=shared)
 
 
 ## 💻 Source Code
