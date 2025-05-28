@@ -37,9 +37,11 @@ A fully autonomous mobile robot designed to follow a white line and communicate 
 ### 🎥 Demo Video  
 📽️ [Watch Demo (Download)](Autonomous_Navigating_Robot_Video.mov)
 
+
 ## 💻 Source Code
 
 🔗 [View `mobot_code.cpp`](mobot_code.cpp)
+
 
 ## 🧠 Core Functionality
 
