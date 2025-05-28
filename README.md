@@ -25,15 +25,17 @@ A fully autonomous mobile robot designed to follow a white line and communicate 
 ## 📸 Media
 
 ### 📷 Mobot Build
-![Mobot Final Build](images/mobot_photo.jpg)
+![Mobot Final Build](Autonomous_Robot.jpg)
 
 ### 🛠️ Flag Waving Mechanism (CAD)
-![Flag CAD](images/flag_cad.png)
+![Flag CAD](Waving_flag.jpg)
 
 ### 🎥 Demo Video  
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+📽️ [Watch Demo (Download)](Autonomous_Navigating_Robot_Video.mov)
 
-> *(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID, e.g. `PNo7qME4kEY`)*
+## 💻 Source Code
+
+🔗 [View `mobot_code.cpp`](mobot_code.cpp)
 
 ## 🧠 Core Functionality
 
