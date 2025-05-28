@@ -27,6 +27,10 @@ A fully autonomous mobile robot designed to follow a white line and communicate 
 ### 📷 Mobot Build
 ![Mobot Final Build](Autonomous_Robot.jpg)
 
+### 💻 Online Server to Set Route
+![Online Server to Set Route](Online_Server_Route_Setter.png)
+
+
 ### 🛠️ Flag Waving Mechanism (CAD)
 ![Flag CAD](Waving_flag.jpg)
 
